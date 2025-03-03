@@ -1,0 +1,45 @@
+/* Global Styles */
+body {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    background-color: hsl(20, 14.3%, 4.1%);
+    color: hsl(0, 0%, 95%);
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: hsl(24, 9.8%, 10%);
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Countdown Section */
+.countdown-section {
+    margin: 50px auto;
+    padding: 20px;
+    background: hsl(0, 0%, 9%);
+    border-radius: 8px;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
+}
+
+#countdown {
+    font-size: 24px;
+    font-weight: bold;
+    color: hsl(142, 76%, 36%);
+}
+
+/* Info Section */
+.info-section {
+    margin: 50px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    background: hsl(24, 9.8%, 10%);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
