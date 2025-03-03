@@ -15,6 +15,9 @@ header {
     font-size: 24px;
     font-weight: bold;
 }
+.green-text {
+    color: hsl(142, 76%, 36%);
+    font-weight: bold;
 
 /* Countdown Section */
 .countdown-section {
